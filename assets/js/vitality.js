@@ -72,6 +72,10 @@ $(".portfolio-gallery").owlCarousel({
     items: 3,
 });
 
+$(".portfolio-resume").owlCarousel({
+    items: 1,
+});
+
 // Magnific Popup jQuery Lightbox Gallery Settings
 $('.gallery-link').magnificPopup({
     type: 'image',
