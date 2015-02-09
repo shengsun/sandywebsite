@@ -1,0 +1,38 @@
+.intro-content .brand-name-subtext {
+	font-size: 22px;
+}
+
+.intro-content .brand-name-subtext .white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width: auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.portfolio-modal .modal-content {
+  background-color: rgba(0,0,0,.75);
+}
+/*
+.modal-body {
+  min-height: 400px;
+  background-color: white;
+  border-radius: 10px;
+  margin-right: 15px;
+  margin-left: 15px;
+  background-color: rgba(255,255,255,0.95);
+}*/
+
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width:auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.white-popup img {
+  width: 100%;
+}
