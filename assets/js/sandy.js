@@ -15,5 +15,15 @@ $(document).ready(function() {
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  $('.open-popup-link4').magnificPopup({
+    type:'image',
+    midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
+  });
+
+  $('.bio-popup-link').magnificPopup({ 
+  type: 'image'
+  // other options
+});
+
 
 });
