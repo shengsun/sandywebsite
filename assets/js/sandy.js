@@ -21,7 +21,8 @@ $(document).ready(function() {
   });
 
   $('.bio-popup-link').magnificPopup({ 
-  type: 'image'
+  type: 'image',
+  midClick: true
   // other options
 });
 
